@@ -1,0 +1,143 @@
+body {
+    background-color:#FDFDFF;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #163152;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: #163152;
+}
+
+
+ul.nav-list, ul.info-list-columns, ul.info-list-column{
+    list-style: none;
+}
+
+h2 {
+    font-size: 24px;
+    text-decoration: underline;
+    text-decoration-color: #00C6BD;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 15px;
+    text-underline-position: under;
+    line-height: 34px;
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.main-title {
+    text-transform: uppercase;
+    font-size: 44px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.nav-list {
+    text-transform: uppercase;
+}
+
+.contacts-list-item-text {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.info-list-column-title {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.info-item {
+    line-height: 16px;
+}
+
+.copyrights {
+    font-size: 10px;
+}
+
+.date {
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.socials-item {
+    margin-bottom: 4px;
+}
+
+/* news-block */
+
+.section-title {
+    padding-left: 580px;
+}
+
+.description {
+    color: #8693A4;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 4px;
+    padding-left: 40px;
+}
+
+.news-img {
+    padding-left: 40px;
+}
+
+.news-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.news-text {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.competitors-list-title {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+}   
+
+.competitors-list-item {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.quote {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 36px;
+    padding-left: 40px;
+}
+
+.author-name {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+}
+
+.author-icon {
+    display: block;
+}
+
+.share {
+    display: block;
+}
+
+
+
